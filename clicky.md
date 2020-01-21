@@ -28,6 +28,7 @@ Clicky是仅次于Google Analytics的流量分析提供商，专注流量分析�
 Clicky的后台长这样子。**注意：访问者IP的最后一段统一被模糊化为0，即C段IP.** 完整的用户IP是D段IP。
 ![截图](https://raw.githubusercontent.com/diymysite/analytics/master/clicky.png)
 
+这个IP地址跟你的手机号差不多，同一个地区的手机号/电话号码前面几位都是相同的，中间的几位重复率也比较高，最后几位才是最关键的。也就是说知道最后几位很容易猜出你的完整手机号，因为前面几位是固定的区号。
 
 Note: 这里分享出来的Clicky后台只能看不能改设置。
 
