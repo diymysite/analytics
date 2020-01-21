@@ -24,6 +24,7 @@
 [流量分析](pages/analytics.md)
 [用户隐私](pages/privacy.md)
 [{Ticksel}](ticksel-test)
+[{shareaholic}](shareaholic-test)
 [About](pages/about.md)
 [Download](pages/download.md)
 
