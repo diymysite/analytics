@@ -22,6 +22,8 @@ shareaholic主要提供侧边栏的社交平台分享按钮，同时分析网页
 ## 查看方法
 鼠标右键-> 查看网页源代码 (view page source)
 
+如果你装了[uBlock Origin](https://github.com/gorhill/uBlock)浏览器插件，你会发现它不但阻拦了shareaholic的插件，还阻拦了Google Analytics的插件。因为Shareaholic里面也用了GA。
+
 <!-- BEGIN SHAREAHOLIC CODE -->
 <link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
 <meta name="shareaholic:site_id" content="0282611820784d5193442745b0e9708f" />
