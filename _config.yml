@@ -38,6 +38,9 @@ footer-links:
   twitter: 2049bbs
   youtube: # channel/<your_long_string> or user/<user-name>
 
+
+disqus: diymysite.disqus.com
+
 # Text under the icons in footer
 footer-text: Powered by <a href="https://github.com/diymysite/rich-jekyll-template">DIY My Site</a>
 
