@@ -27,6 +27,7 @@
 [用户隐私](pages/privacy.md)
 [{Ticksel}](ticksel-test)
 [{shareaholic}](shareaholic-test)
+[{Clicky}](clicky-test)
 [论坛](Forum.md)
 
 <!-- A more complex navigation example: ----------------------------------------
