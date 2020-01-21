@@ -1,4 +1,7 @@
-注意：本页包含来自[ticksel.com](https://ticksel.com)隐私友好的 **跟踪代码** ，它提供访问者的点击信息，但不会泄露用户敏感信息。
+# Ticksel.com
+
+## 源代码
+Attention: 本页包含来自[ticksel.com](https://ticksel.com)隐私友好的 **跟踪代码** ，它提供访问者的点击信息，但不会泄露用户敏感信息。
 
 ```html
 <!-- Ticksel v1.0 -->
@@ -16,10 +19,10 @@
 <noscript><img src="https://beacon.ticksel.com/beam?account_id=3416238&referrer=&tags=diymysite,analytics" style="border:0;" width="0" height="0" alt="" /></noscript>
 <!-- End Ticksel Code -->
 ```
-
+## 查看方法
 查看方法：鼠标右键-> view page source
 
-<!-- Ticksel v1.0 -->
+<!-- Ticksel v1.0-->
 <script type="text/javascript">
   var _tcfg = _tcfg || [];
   (function() {
@@ -32,4 +35,5 @@
   })();
 </script>
 <noscript><img src="https://beacon.ticksel.com/beam?account_id=3416238&referrer=&tags=diymysite,analytics" style="border:0;" width="0" height="0" alt="" /></noscript>
+
 <!-- End Ticksel Code -->

@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 分析与隐私
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](readable)
+[gimmick:theme](bootstrap)
 
 <!--
 [gimmick:theme](spacelab)
@@ -22,6 +22,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
+[Ticksel](pages/ticksel.md)
 [About](pages/about.md)
 [Download](pages/download.md)
 
