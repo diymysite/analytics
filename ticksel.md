@@ -1,7 +1,16 @@
-# Ticksel.com
+---
+layout: default
+title: Ticksel.com
+permalink: /ticksel-test/
+---
+
+# Ticksel.com跟踪代码测试页面
+
+Attention: 本页包含来自[ticksel.com](https://ticksel.com)隐私友好的 **跟踪代码** ，它提供访问者的点击信息，但不会泄露用户敏感信息。
+
+Note: Ticksel流量分析脚本不使用cookies，受[uBlock Origin](https://github.com/gorhill/uBlock)信任。
 
 ## 源代码
-Attention: 本页包含来自[ticksel.com](https://ticksel.com)隐私友好的 **跟踪代码** ，它提供访问者的点击信息，但不会泄露用户敏感信息。
 
 ```html
 <!-- Ticksel v1.0 -->
@@ -20,7 +29,8 @@ Attention: 本页包含来自[ticksel.com](https://ticksel.com)隐私友好的 *
 <!-- End Ticksel Code -->
 ```
 ## 查看方法
-查看方法：鼠标右键-> view page source
+鼠标右键-> 查看网页源代码 (view page source)
+
 
 <!-- Ticksel v1.0-->
 <script type="text/javascript">

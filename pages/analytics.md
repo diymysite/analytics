@@ -1,5 +1,7 @@
 # 流量分析
 
+Attention: 有`{ }`的导航按钮都是包含用户跟踪脚本的测试页面，请务必通过VPN、[Tor](https://www.torproject.org/download/)或[在线代理](https://hidester.com/proxy/)访问。
+
 Note: 本页不包含流量分析脚本。本文是草稿，内容会不定期更新，历史版本请查看[Github仓库](https://github.com/diymysite/analytics/raw/master/pages/analytics.md)。
 
 互联网行业常用Analytics来描述流量分析，流量分析能为网站提供关键运营数据，大型成熟的网站都有不同类型的流量分析。流量分析的实现方式有多种：浏览器端、网页端、网络环节、服务器端。

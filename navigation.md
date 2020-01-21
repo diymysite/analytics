@@ -23,7 +23,7 @@
   -->
 [流量分析](pages/analytics.md)
 [用户隐私](pages/privacy.md)
-[Ticksel](pages/ticksel.md)
+[{Ticksel}](ticksel-test)
 [About](pages/about.md)
 [Download](pages/download.md)
 
