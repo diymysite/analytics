@@ -26,7 +26,7 @@ Clicky是仅次于Google Analytics的流量分析提供商，专注流量分析�
 本测试页的后台流量分析界面对大家开放，点击[这里](http://clicky.com/?site_id=101232323&sitekey=0672abda48dec488)查看本页的流量统计。
 
 Clicky的后台长这样子。**注意：访问者IP的最后一段统一被模糊化为0，即C段IP.** 完整的用户IP是D段IP。
-![截图](https://raw.githubusercontent.com/diymysite/diymysite.github.io/master/clicky.png)
+![截图](https://raw.githubusercontent.com/diymysite/analytics/master/clicky.png)
 
 
 Note: 这里分享出来的Clicky后台只能看不能改设置。
