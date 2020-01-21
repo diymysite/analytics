@@ -20,13 +20,13 @@
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
+  [About](pages/about.md)
+  [Download](pages/download.md)
   -->
 [流量分析](pages/analytics.md)
 [用户隐私](pages/privacy.md)
 [{Ticksel}](ticksel-test)
 [{shareaholic}](shareaholic-test)
-[About](pages/about.md)
-[Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
