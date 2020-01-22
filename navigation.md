@@ -25,9 +25,9 @@
   -->
 [流量分析](pages/analytics.md)
 [用户隐私](pages/privacy.md)
-[{Ticksel}](ticksel-test)
-[{shareaholic}](shareaholic-test)
-[{Clicky}](clicky-test)
+[<font color="red">{Ticksel}</font>](ticksel-test)
+[<font color="red">{Shareaholic}</font>](shareaholic-test)
+[<font color="red">{Clicky}</font>](clicky-test)
 [论坛](Forum.md)
 
 <!-- A more complex navigation example: ----------------------------------------
