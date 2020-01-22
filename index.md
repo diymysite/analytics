@@ -14,4 +14,8 @@ Note: 本页不含用户跟踪或流量分析脚本。
 
 Firefox | Tor Browser | Chrome | 必备 [*uBlock Origin*](https://github.com/gorhill/uBlock) | 可选  [*No Script*](https://noscript.net)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="Firefox-icon.png" width="64">|<img src="Tor-icon.png" width="64"> |<img src="Google-Chrome-icon.png" width="64"> | ![uBlock Icon](https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png) | ![NoScript Icon](https://upload.wikimedia.org/wikipedia/commons/a/ad/NoScript.png)
+<img src="Firefox-icon.png" width="64">|<img src="TorBrowser-icon.png" width="64"> |<img src="Google-Chrome-icon.png" width="64"> | <img src="https://raw.githubusercontent.com/gorhill/uBlock/master/doc/img/icon38@2x.png" width="64"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/NoScript.png" width="64">
+
+Hint: 欢迎提交[Issue](https://github.com/diymysite/analytics/issues)建议跟踪脚本商供测试。
+
+评论请前往[论坛](Forum.md)或[2049bbs](https://2049bbs.xyz).
