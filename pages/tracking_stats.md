@@ -1,6 +1,6 @@
 # 各网站流量分析用户跟踪脚本使用情况统计
 
-这里是一些大家常用或关心的网站的流量分析用户跟踪脚本使用情况的统计（被uBlockOrigin封锁为标准），下载[csv文件](pages/uploads/documents/29y2kpgbfqm0.csv)。其中uBlockOrigin采用默认的简单模式，具体封锁列表来源请见[这里](https://github.com/fang5566/uBlock/wiki/%E5%B1%8F%E8%94%BD%E6%A8%A1%E5%BC%8F%EF%BC%9A%E7%AE%80%E5%8D%95%E6%A8%A1%E5%BC%8F)。
+这里是一些大家常用或关心的网站的流量分析用户跟踪脚本使用情况的统计（被uBlockOrigin封锁为标准），下载[csv文件](uploads/documents/29y2kpgbfqm0.csv)。其中uBlockOrigin采用默认的简单模式，具体封锁列表来源请见[这里](https://github.com/fang5566/uBlock/wiki/%E5%B1%8F%E8%94%BD%E6%A8%A1%E5%BC%8F%EF%BC%9A%E7%AE%80%E5%8D%95%E6%A8%A1%E5%BC%8F)。
 
 Note: 本页不含用户跟踪或流量分析脚本
 
