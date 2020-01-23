@@ -25,6 +25,7 @@
   -->
 [流量分析](pages/analytics.md)
 [用户隐私](pages/privacy.md)
+[脚本统计](pages/tracking_stats.md)
 [<font color="red">{Ticksel}</font>](ticksel-test)
 [<font color="red">{Shareaholic}</font>](shareaholic-test)
 [<font color="red">{Clicky}</font>](clicky-test)
