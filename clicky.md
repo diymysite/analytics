@@ -4,7 +4,7 @@ title: Clicky.com
 permalink: /clicky-test/
 ---
 
-# Clicky.com社交分享和流量缝隙代码测试页面
+# Clicky.com流量分析代码测试页面
 
 Attention: 本页包含来自[Clicky](https://clicky.com)的 **跟踪代码** ，它提供每个访问者的点击信息，C段IP地址，浏览器类型，操作系统。受[uBlock Origin](https://github.com/gorhill/uBlock)阻拦。
 
